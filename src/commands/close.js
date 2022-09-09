@@ -2,7 +2,7 @@ module.exports = {
     name: "close",
     aliases: ["c", "sair"],
 
-    run: async () => {
+    run: async ({ client: client }) => {
       client.emit('close');
     }
 }
