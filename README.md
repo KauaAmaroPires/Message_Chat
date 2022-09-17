@@ -7,7 +7,7 @@ O message-chat e um simples chat privado com criptografia, que pode ser usado pa
 
 ![chats](./assets/chat.png)
 
-# Inicio.
+# ✨ Inicio.
 
 * Tenha o ```NodeJs``` na sua maquina, para funcionar o projeto. 
 
@@ -17,10 +17,10 @@ O message-chat e um simples chat privado com criptografia, que pode ser usado pa
 
 ![ENV](./assets/ENV.png)
 
-# Como usar?
+# ❔ Como usar?
 
 Antes de você usar ele para conversar com os amigos por ele, você deve obter um link de acesso cujo qual esta localizado o servidor do chat.
-para gerar um, e mais fácil que somar 1+1, más se você já tiver um link, pule essa etapa e vá direto para a parte [Como entrar em um servidor?](https://github.com/KauaAmaroPires/Message_Chat/blob/main/README.md#como-entrar-em-um-servidor).
+para gerar um, e mais fácil que somar 1+1, más se você já tiver um link, pule essa etapa e vá direto para a parte [Como entrar em um servidor?](https://github.com/KauaAmaroPires/Message_Chat/blob/main/README.md#-como-entrar-em-um-servidor).
 
 * Clique 2 vezes sobre o arquivo: ```app_server.bat``` ou digite: ```npm run server``` e copie o link gerado.
 
@@ -28,7 +28,7 @@ para gerar um, e mais fácil que somar 1+1, más se você já tiver um link, pul
 
 **OBS: mantenha a janela aberta...**
 
-# Como entrar em um servidor?
+# 💻 Como entrar em um servidor?
 
 Após copiar o link de convite do server basta seguir os próximos passos:
 
@@ -43,7 +43,7 @@ Após isso, você ja vai estar conectado no servidor, as palavras que você mand
 
 ![link](./assets/link.png)
 
-# Comandos.
+# ⚙ Comandos.
 
 message-chat tem suporte para comandos que auxilia em algumas coisas, para usar os comandos, basta digitar o prefixo e em seguida o nome do comando.
 
@@ -55,7 +55,7 @@ message-chat tem suporte para comandos que auxilia em algumas coisas, para usar 
 
 ![commands](./assets/commands.png)
 
-# Upload e Download de arquivos.
+# 📨 Upload e Download de arquivos.
 
 E por fim, o sistema de tranferencia de arquivos, esse sistema pode demorar um pouco para enviar o arquivo dependendo da rede de quem está hospedando, e o tamanho do arquivo.
 
