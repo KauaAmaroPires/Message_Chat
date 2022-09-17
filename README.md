@@ -33,15 +33,16 @@ para gerar um, e mais fácil que somar 1+1, más se você já tiver um link, pul
 Após copiar o link de convite do server basta seguir os próximos passos:
 
 * Clique 2 vezes sobre o arquivo: ```app.bat``` ou digite: ```npm run start```.
-* cole o link e aperte enter.
 
 ![client](./assets/client.png)
+
+* cole o link e aperte enter.
+
+![link](./assets/link.png)
 
 **OBS: Para que outras pessoas entrem no seu servidor, basta mandar esse link para ela entrar por ele.**
 
 Após isso, você ja vai estar conectado no servidor, as palavras que você mandar, serão entreges as pessoas que estão na mesmo servidor que você e vice-versa.
-
-![link](./assets/link.png)
 
 # ⚙ Comandos.
 
